@@ -30,13 +30,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="images/banner1.png" alt="First slide">
+                                    <img src="images/cyber-monday-twitch-banner-template.png" alt="First slide">
                                 </div>
                                 <div class="item">
-                                    <img src="images/banner2.png" alt="Second slide">
+                                    <img src="images/download2.jpg" alt="Second slide">
                                 </div>
                                 <div class="item">
-                                    <img src="images/banner3.png" alt="Third slide">
+                                    <img src="images/flat-cyber-monday-social-media-cover-template.png" alt="Third slide">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
